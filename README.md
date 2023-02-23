@@ -33,3 +33,4 @@ e para abrir o projeto:
 npm run start
 
 YouTube link: https://youtu.be/Wlj7yEp0Q2o
+Surge link: https://careless-ducks.surge.sh/
